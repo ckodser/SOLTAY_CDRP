@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="e63bbe30c76b9f1a9e2fa17c183ac9400b559b1044ecd66f" />
+          <option name="urlString" value="http://127.0.0.1:8887/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="e63bbe30c76b9f1a9e2fa17c183ac9400b559b1044ecd66f" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="8c16205155c45ffb18b28e9ba12a0564e807963a1aa6b193" />
+          <option name="urlString" value="http://127.0.0.1:8889/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="8c16205155c45ffb18b28e9ba12a0564e807963a1aa6b193" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="7f48195f9171d51e7acf3f1564594394f12906bf5dedd999" />
+          <option name="urlString" value="http://127.0.0.1:8936/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="7f48195f9171d51e7acf3f1564594394f12906bf5dedd999" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../LoRALeakage/.idea/LoRALeakage.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="8c16205155c45ffb18b28e9ba12a0564e807963a1aa6b193" />
+              <option name="urlString" value="http://127.0.0.1:8889/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="8c16205155c45ffb18b28e9ba12a0564e807963a1aa6b193" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greedyneuron/.idea/greedyneuron.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="8899" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
